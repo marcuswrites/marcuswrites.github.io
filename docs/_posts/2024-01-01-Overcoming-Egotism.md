@@ -1,4 +1,10 @@
-Overcoming Egotism  
+---
+layout: post
+title:  "Overcoming Egotism"
+date:   2024-01-01 23:51:09 -0700
+categories: Humanities
+---
+  
 What do you think about how you engage with people? All of us have biases, some that we are aware of, and others that we are not. In my experience, our interactions with the people in our communities are influenced by these biases, and it is remarkably easy to fall into the trap of judging people before we even say a word to them. As a result of this, individuals often alienate themselves from their own communities before they can even have a chance to truly become part of them. My experience as a second generation immigrant is why I strongly believe that distancing ourselves from others based on our biases only serves to harm us, and that it's always better to interact with people while ignoring your prejudices.  
 When I moved back to the United States from India a couple of years ago, I came in with a few negative stereotypes of the community I moved to. The popular culture in most of the places I had been, my social circle and especially my family, had led me to believe that Americans were, among other things, self-centered, arrogant and not very smart in general. It is very likely that it will seem obvious to you that these biases I speak of were harmful and untrue. At the time however, I had not realized how entrenched my subconscious biases had become. I am ashamed to say that these prejudices had become part of my personality. These misguided beliefs made me think of myself as much smarter and more motivated than the people in my community, and made me withdrawn and snobbish. My reluctance to engage with my community led me to become isolated, and I found it difficult to get along with people.  During this time, feelings of loneliness, frustration and anxiety caused me to struggle in academic life.  
 In my first few weeks here, I felt like I was out of my element. There were so many parts of this new culture and environment that I didn’t understand. The stereotypes that I had accepted as fact compounded this feeling that I was an outsider and that I did not belong. Afraid of not being accepted, I gradually pulled myself away from situations where I might have disillusioned myself of these ideas.  
