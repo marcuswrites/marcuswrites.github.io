@@ -1,4 +1,10 @@
-Midterm Essay  
+---
+layout: post
+title:  "Diving into 'Diving into the Wreck'"
+date:   2024-01-01 23:51:09 -0700
+categories: Humanities
+---
+  
 “We are, I am, you are  
 by cowardice or courage  
 the one who find our way  
