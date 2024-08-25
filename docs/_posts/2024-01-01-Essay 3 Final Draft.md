@@ -1,3 +1,9 @@
+---
+layout: post
+title:  "Sula"
+date:   2024-01-01 23:51:09 -0700
+categories: Humanities
+---
 Essay Three \- Sula Evaluation  
 The kind of books that stick with people are the compelling ones. For a story to command its reader’s attention and become a fond memory, it needs to tell a story with characters that feel alive. A book that is considered successful, with characters that function in this way can be said to have good characterization. Successful characterization in fiction can make the reading experience a personal one. To the individual, literature that becomes successful like this can turn into a portal into any time, and the individual can embed themselves into a fictional world. Stories like Wonder and Moby have this ability, they let the individual experience the story alongside the characters through their vivid depictions.  
 *Sula* follows the life of Sula Peace, a girl who lives with her mother, grandmother, and several adopted family members in The Bottom, a relatively poor neighborhood. The story takes the reader through the life of her and some of the other members of The Bottom, eventually culminating in Sula’s staunchly different worldview leading her to become alienated from her community, and ending in her death. The rich characterization of the characters in *Sula*, whether they are Sula herself or other less prominent characters such as Jude, is what makes the story successful.  
