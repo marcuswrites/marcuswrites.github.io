@@ -24,7 +24,7 @@ description: My writings are collected here.
 github_username:  jekyll
 
 # Build settings
-theme: minima
+theme: jekyll-theme-lanyon
 plugins:
   - jekyll-feed
   - jekyll-archives
